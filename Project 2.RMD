@@ -9,7 +9,7 @@ output:
 
 ## Loading and preprocessing the data
 
-Loaing necessary packages.
+Loading necessary packages.
 
 ```{r packages, message=FALSE}
 library(dplyr)

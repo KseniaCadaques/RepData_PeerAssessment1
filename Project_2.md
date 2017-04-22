@@ -4,7 +4,7 @@ Ksenia Kharitonova
 
 ## Loading and preprocessing the data
 
-Loaing necessary packages.
+Loading necessary packages.
 
 
 ```r
